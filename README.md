@@ -16,3 +16,9 @@ Este repositório contém soluções detalhadas de exercícios da disciplina de 
 - **Sexta-feira:** 13:30 às 15:30  
 
 Se precisar de ajuda ou tiver sugestões, estamos à disposição!
+
+## Conteúdos Recomendados
+
+Para complementar o estudo, recomendo assistir aos seguintes vídeos [a completar]:
+
+**[Integration by parts, DI method](https://www.youtube.com/watch?v=2l-_SV8cwsw)**

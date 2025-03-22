@@ -21,4 +21,4 @@ Se precisar de ajuda ou tiver sugestões, estamos à disposição!
 
 Para complementar o estudo, recomendo assistir aos seguintes vídeos [a completar]:
 
-**[Integration by parts, DI method](https://www.youtube.com/watch?v=2l-_SV8cwsw)**
+**[Integration by parts, DI method](https://www.youtube.com/watch?v=2I-_SV8cwsw)**
